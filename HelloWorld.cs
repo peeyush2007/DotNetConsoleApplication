@@ -4,6 +4,5 @@ class HelloWorld
   {
    Console.Write("Hello World");
 
-   Console.ReadKey();
   }
  }
